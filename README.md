@@ -3,7 +3,7 @@
 #### I'm a UI/UX Designer & Front-End Developer
 
 
-I'm a passionate full-time website template designer and developer. I have a good conversion of 2+ years experience and 200+ projects in different categories like Landing Pages, Custom Website Designs, blogs, magazines, Entertainment, weddings, portfolios, Fitness, E-commerce stores, etc.
+I'm a passionate full-time website designer and developer. I have a good conversion of 2+ years experience and 200+ projects in different categories like Landing Pages, Custom Website Designs, blogs, magazines, Entertainment, weddings, portfolios, Fitness, E-commerce stores, etc.
 
 
 - 🔭 I’m currently working on a local front-end development team. 
