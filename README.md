@@ -7,8 +7,8 @@ I'm a passionate full-time website designer and developer. I have 2+ years of ex
 
 
 - 🔭 I’m currently working on a local front-end development team. 
-- 🌱 I’m currently learning node JS 
-- 💬 Ask me about Front-end development of all topics topics 
+- 🌱 I’m currently learning node JS.
+- 💬 Ask me about Front-end development of all topics.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
